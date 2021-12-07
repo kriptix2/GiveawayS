@@ -31,10 +31,6 @@ Please read [code of conduct](.github/CODE_OF_CONDUCT.md) for details on our cod
 
 # [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://top.gg/bot/900628889452314674)
 
-<a href="https://top.gg/bot/900628889452314674">
-  <img src="https://top.gg/api/widget/900628889452314674.svg">
-</a>
-
----
+# [![Discord Bots](https://top.gg/api/widget/900628889452314674.svg)](https://top.gg/bot/900628889452314674)
 
 
