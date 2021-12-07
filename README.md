@@ -1,7 +1,7 @@
 # GiveawayS
 ### Create giveaways on Discord faster and easier using GiveawayS!! Start using the bot by doing `/help`
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
 
 ## Links
 
@@ -26,5 +26,7 @@ All contributions are welcomed, it is recommended to create an issue or reply in
 
 Please read [code of conduct](.github/CODE_OF_CONDUCT.md) for details on our code of conduct.
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+# ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
+
+# [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://top.gg/bot/900628889452314674)
