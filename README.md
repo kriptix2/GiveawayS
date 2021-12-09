@@ -1,5 +1,5 @@
 # GiveawayS
-### Create giveaways on Discord faster and easier using Giveaway!! Start using the bot by doing `/help`
+### Create giveaways on Discord faster and easier using GiveawayS!! Start using the bot by doing `/help`
 
 ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
 
