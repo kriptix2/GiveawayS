@@ -53,6 +53,17 @@ module.exports = {
         ephemeral: true
       });
     }
+    if(isNaN(ms(giveawayDuration))) {
+    return interaction.reply({
+      content: ':x: Please select a valid duration!',
+      ephemeral: true
+    });
+  }
+    if (giveawayWinnerCount < 1) {
+      return interaction.reply({
+        content: ':x: Please select a valid winner count! greater or equal to one.',
+      })
+    }
     
         interaction.deferReply({ ephemeral: true })
 
@@ -71,7 +82,7 @@ module.exports = {
         });
         interaction.editReply({
           content:
-            `:white_check_mark: Giveaway started in ${giveawayChannel}!`,
+            `:white_check_mark: Giveaway started in ${giveawayChannel}! Hey there If you have invited the bot before 19 Dec 2020, kindly reinvite the bot using the new invite link in /invite. Please ignore if already done/invited the bot after the said date!`,
           ephemeral: true
         })
 
